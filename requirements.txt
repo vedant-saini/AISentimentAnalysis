@@ -1,0 +1,5 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+pandas==2.1.1
+nltk==3.8.1
+python-dotenv==1.0.0  # Optional if you use environment variables
